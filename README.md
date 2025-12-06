@@ -1,4 +1,4 @@
-# Fokus - App de Produtividade
+# Fokus - App de Produtividade (Pedro Costa)
 
 ## Descrição
 O **Fokus** é um aplicativo de produtividade desenvolvido em React Native com Expo. Ele ajuda os usuários a otimizar sua produtividade através de técnicas como o Pomodoro, gerenciamento de tarefas e outras funcionalidades focadas em foco e eficiência. 
